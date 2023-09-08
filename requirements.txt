@@ -1,0 +1,4 @@
+OpenCV
+PyTorch
+YOLO v5
+yolov5s
